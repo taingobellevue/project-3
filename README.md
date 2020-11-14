@@ -1,1 +1,1 @@
-# project-3
+# Sentiment Analysis for Stocks
